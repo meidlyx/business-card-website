@@ -1,0 +1,52 @@
+/* Мобильная адаптация */
+@media (max-width: 768px) {
+    .main {
+        width: 80%;
+    }
+
+    .header {
+        height: 10%;
+    }
+    .popup {
+        bottom: 10px;
+        right: 50%;
+        transform: translateX(50%);
+    }
+
+    .popup.show {
+        display: block;
+        text-align: center;
+        justify-content: center;
+    }
+
+    hr {
+        width: 100%;
+    }
+
+    .logo {
+        font-size: 40px;
+    }
+
+    .subscibe {
+        font-size: 24px;
+    }
+}
+
+/* Десктоп */
+@media (min-width: 1920px) {
+    .main {
+        width: 40%;
+    }
+
+    .logo {
+        font-size: 60px;
+    }
+
+    .subscibe {
+        font-size: 30px;
+    }
+
+    hr {
+        width: 500px;
+    }
+}

@@ -1,0 +1,39 @@
+@font-face {
+    font-family: Shift;
+    src: url(fonts/шрифт\ 1_0.otf);
+}
+
+@font-face {
+    font-family: DRC;
+    src: url(fonts/Daneehand\ Regular\ Cyr.ttf);
+}
+
+@font-face {
+    font-family: HaloG;
+    src: url(fonts/HaloGrotesk-Regular.otf);
+}
+
+@font-face {
+    font-family: HW;
+    src: url(fonts/HandWriting_1.otf);
+}
+
+@font-face {
+    font-family: LEO;
+    src: url(fonts/LincolnElectric-Over.ttf);
+}
+
+@font-face {
+    font-family: LER;
+    src: url(fonts/LincolnElectric-Regular.ttf);
+}
+
+@font-face {
+    font-family: LEU;
+    src: url(fonts/LincolnElectric-Under.ttf);
+}
+
+@font-face {
+    font-family: RazSP;
+    src: url(fonts/RazlukaSP-Bold.otf);
+}
